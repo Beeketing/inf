@@ -4,7 +4,7 @@ import (
 	"math/big"
 	"testing"
 
-	"gopkg.in/inf.v0"
+	"gopkg.in/Beeketing/inf.v0"
 )
 
 var decRounderInputs = [...]struct {

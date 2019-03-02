@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"gopkg.in/inf.v0"
+	"gopkg.in/Beeketing/inf.v0"
 )
 
 type decFunZZ func(z, x, y *inf.Dec) *inf.Dec

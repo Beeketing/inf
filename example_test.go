@@ -5,7 +5,7 @@ import (
 	"log"
 )
 
-import "gopkg.in/inf.v0"
+import "gopkg.in/Beeketing/inf.v0"
 
 func ExampleDec_SetString() {
 	d := new(inf.Dec)
